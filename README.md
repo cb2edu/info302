@@ -18,3 +18,6 @@ You need to bring your own laptop in the class. Make sure that you can connect t
 
 http://cmb.path.uab.edu/training/2020/files/cb2-101-netinstall.vdi.xz
 
+## Syllabus
+The course structure is extremely fluid and the syllabus will be updated as we go along. For a guidelines of the topics covered you can consult this [document](https://github.com/cb2edu/info302/raw/2021/INFO%20302-%20Syllabus.docx). But remember this is just a guidelines, the topics covered in the class may differ significantly. 
+
