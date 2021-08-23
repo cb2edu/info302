@@ -2,7 +2,7 @@
 
 Fall semsster 2021.
 
-# Location and time
+## Location and time
 Shelby 515. 9:30-11:00 AM every Tuesdays and Thrusday. The first day of the class August 24th.
 
 ## Communcations
